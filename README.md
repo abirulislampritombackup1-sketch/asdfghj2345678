@@ -13,7 +13,8 @@ A high-performance, bilingual web application designed for building safety admin
 - **Repository:** [https://github.com/abirulislampritombackup1-sketch/devfest--253-15-198-](https://github.com/abirulislampritombackup1-sketch/devfest--253-15-198-)
 
 ## Live Site
-🔗 **[https://devfest--253-15-198-.vercel.app](https://devfest--253-15-198-.vercel.app)**
+🔗 **[https://devfest--253-15-198-.vercel.app]([https://devfest--253-15-198-.vercel.app](https://vercel.com/the-builder5/devfest-253-15-198)
+)**
 
 ---
 
